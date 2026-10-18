@@ -1,7 +1,7 @@
 **Simulador de Investimentos em Fundos Imobiliários (FIIs)**
 Projeto desenvolvido para o desafio Criando uma Ferramenta de Controle de Investimentos com Excel, da DIO, apresentado por Felipe Aguiar (Felipão).
 
-**Objetivo**
+**Objetivo:**
 Criar uma ferramenta simples, com aparência de aplicativo, que ajude a simular aportes mensais em fundos imobiliários (FIIs), visualizar a evolução do patrimônio e estimar dividendos. Os valores utilizados são fictícios e apenas educacionais.
 
 **O que a ferramenta responde?**
