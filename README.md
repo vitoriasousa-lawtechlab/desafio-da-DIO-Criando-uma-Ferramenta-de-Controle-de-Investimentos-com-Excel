@@ -6,13 +6,17 @@ Criar uma ferramenta simples, com aparência de aplicativo, que ajude a simular 
 
 **O que a ferramenta responde?**
 Na aba APP:
-Pergunta	Onde encontrar
-Quanto investir por mês?	Célula D10
-Por quantos anos investir?	Célula D11
-Qual a taxa de rendimento mensal?	Célula D12
-Qual o patrimônio acumulado estimado?	Célula D13
-Quanto receber em dividendos por mês?	Célula D14
 
+Pergunta:
+Quanto investir por mês?	Célula D10
+
+Por quantos anos investir?	Célula D11
+
+Qual a taxa de rendimento mensal?	Célula D12
+
+Qual o patrimônio acumulado estimado?	Célula D13
+
+Quanto receber em dividendos por mês?	Célula D14
 
 A mesma aba apresenta a sugestão de aporte equivalente a 30% do salário informado, projeções para 2, 5, 10, 20 e 30 anos e uma distribuição ilustrativa do aporte por tipo de FII.
 Como usar
