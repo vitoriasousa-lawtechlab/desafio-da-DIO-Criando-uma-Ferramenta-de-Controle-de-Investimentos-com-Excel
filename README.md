@@ -1,4 +1,4 @@
-**Simulador de Investimentos em Fundos Imobiliários (FIIs)**
+**Simulador de Investimentos em Fundos Imobiliários (FIIs) -**
 Projeto desenvolvido para o desafio Criando uma Ferramenta de Controle de Investimentos com Excel, da DIO, apresentado por Felipe Aguiar (Felipão).
 
 **Objetivo:**
